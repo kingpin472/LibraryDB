@@ -145,6 +145,4 @@ INSERT INTO BookAuthors (BookID, AuthorID) VALUES
   WHERE ba.BookID = 2;
   ```
 
-## License
 
-MIT © YourName
